@@ -31,7 +31,7 @@ public class DealStepDefination
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		driver.get("https://ui.freecrm.com/");
-		System.out.println("Url Open Sucessfully");
+		System.out.println("Url Open Sucessfully on the net");
 		
 	}
 	
