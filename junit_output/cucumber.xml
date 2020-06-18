@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="15" time="0">
+<testcase classname="Facebook application testing" name="Login with correct username and correct password" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User should be on the Facebook Login Screen...........................undefined
+]]></failure>
+</testcase>
+<testcase classname="Facebook application testing" name="Create a contact" time="0">
+<system-out><![CDATA[Given This is a contact test case...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Login with correct username and correct password" time="0">
+<system-out><![CDATA[Given This is a valid login test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Create a contact" time="0">
+<system-out><![CDATA[Given This is a contact test case...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Create a deal" time="0">
+<system-out><![CDATA[Given This is a deal test case..............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Create a case" time="0">
+<system-out><![CDATA[Given This is a case test case..............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Verify left panel links" time="0">
+<system-out><![CDATA[Given clicking on left panel links..........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a deal" time="0">
+<system-out><![CDATA[Given This is a search deal test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a contact" time="0">
+<system-out><![CDATA[Given This is a search contact test.........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a case" time="0">
+<system-out><![CDATA[Given This is a search case test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a task" time="0">
+<system-out><![CDATA[Given This is a search task test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a call" time="0">
+<system-out><![CDATA[Given This is a search call test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search an email" time="0">
+<system-out><![CDATA[Given This is a search email test...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a docs" time="0">
+<system-out><![CDATA[Given This is a search docs test............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM application testing" name="Search a forms" time="0">
+<system-out><![CDATA[Given This is a search forms test...........................................skipped
+]]></system-out>
+</testcase>
+</testsuite>

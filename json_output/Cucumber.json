@@ -1,0 +1,477 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Login with correct username and correct password",
+        "description": "",
+        "id": "facebook-application-testing;login-with-correct-username-and-correct-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User should be on the Facebook Login Screen",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 4,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Create a contact",
+        "description": "",
+        "id": "facebook-application-testing;create-a-contact",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "This is a contact test case",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_contact_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@SmokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Facebook application testing",
+    "description": "",
+    "id": "facebook-application-testing",
+    "keyword": "Feature",
+    "uri": "SecondFeaturefiletagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@2ndfeaturefile"
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Login with correct username and correct password",
+        "description": "",
+        "id": "free-crm-application-testing;login-with-correct-username-and-correct-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "This is a valid login test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_valid_login_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 4,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Create a contact",
+        "description": "",
+        "id": "free-crm-application-testing;create-a-contact",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "This is a contact test case",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_contact_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Create a deal",
+        "description": "",
+        "id": "free-crm-application-testing;create-a-deal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "This is a deal test case",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_deal_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 16,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Create a case",
+        "description": "",
+        "id": "free-crm-application-testing;create-a-case",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "This is a case test case",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_case_test_case()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 24,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Verify left panel links",
+        "description": "",
+        "id": "free-crm-application-testing;verify-left-panel-links",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "clicking on left panel links",
+            "match": {
+              "location": "TaggingStepDefination.clicking_on_left_panel_links()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 28,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 28,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "Search a deal",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-deal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "This is a search deal test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_deal_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 32,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "Search a contact",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-contact",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "This is a search contact test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_contact_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 36,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 41,
+        "name": "Search a case",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-case",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 42,
+            "name": "This is a search case test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_case_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 40,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 40,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "name": "Search a task",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-task",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 46,
+            "name": "This is a search task test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_task_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 44,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 44,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 49,
+        "name": "Search a call",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-call",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 50,
+            "name": "This is a search call test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_call_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 48,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 48,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "name": "Search an email",
+        "description": "",
+        "id": "free-crm-application-testing;search-an-email",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 54,
+            "name": "This is a search email test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_email_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 52,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 52,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 57,
+        "name": "Search a docs",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-docs",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 58,
+            "name": "This is a search docs test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_docs_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 56,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 56,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 61,
+        "name": "Search a forms",
+        "description": "",
+        "id": "free-crm-application-testing;search-a-forms",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 62,
+            "name": "This is a search forms test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_search_forms_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 60,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 60,
+            "name": "@End2End"
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@1stfeature"
+      }
+    ]
+  }
+]
