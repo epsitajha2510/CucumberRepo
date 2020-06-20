@@ -15,7 +15,7 @@ import cucumber.api.junit.Cucumber;
 				,dryRun =true
 				,monochrome= true
 				,strict= true,
-				tags = {"@SmokeTest"}
+				tags = {"~@SmokeTest" ,"@End2End"}
 				)
 
 

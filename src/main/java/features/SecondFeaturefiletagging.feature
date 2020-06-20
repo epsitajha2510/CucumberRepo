@@ -12,3 +12,7 @@ Given This is a invalid login test
 @SmokeTest
 Scenario: Create a contact
 Given This is a contact test case
+
+@End2End 
+Scenario: Create a Deal
+Given This is a deal test case

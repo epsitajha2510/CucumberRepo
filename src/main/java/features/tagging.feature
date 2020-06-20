@@ -66,6 +66,10 @@ Scenario: validate a report
 Given This is a report test
 
 @End2End
+Scenario: Validate the Incorrect Report
+Given This report is Incorrect.
+
+@End2End
 Scenario: Application Logout
 Given This is a logout test
 
