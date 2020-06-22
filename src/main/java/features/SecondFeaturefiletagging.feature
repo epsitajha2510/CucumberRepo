@@ -16,3 +16,7 @@ Given This is a contact test case
 @End2End 
 Scenario: Create a Deal
 Given This is a deal test case
+
+@SmokeTest
+Scenario: Contact Search Test
+Given This is a search contact test
